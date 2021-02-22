@@ -1,5 +1,5 @@
 # apple_strong_password
-Make Apple Strong Password in PHP  | Ex: (int)-(int)-(int) |
+Apple Strong Password for PHP  | Ex: (int)-(int)-(int) |
 
 * Source Code
 ```PHP
