@@ -19,6 +19,6 @@ echo appleStrongPw();
 ```
 
 * Result
-```PHP
-'fYvTzJ-vYthSp-Ropt5v'
+```
+fYvTzJ-vYthSp-Ropt5v
 ```
