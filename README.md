@@ -20,5 +20,5 @@ echo appleStrongPw();
 
 * Result
 ```
-fYvTzJ-vYthSp-Ropt5b
+fYvTzJ-vYthSp-Ropt5b 
 ```
