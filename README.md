@@ -1,5 +1,5 @@
 # apple_strong_password
-Apple Strong Password for PHP  | Ex: (int)-(int)-(int) |
+Apple Strong Password for PHP  | Ex: (rand)-(rand)-(rand) |
 
 * Source Code
 ```PHP
